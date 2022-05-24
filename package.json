@@ -18,4 +18,8 @@
   "bugs": {
     "url": "https://github.com/fkur0p1nion/fkur0p1nion.github.io/issues"
   },
-  "homepage": "https://github.com/fkur0p1nion/fkur0p1
+  "homepage": "https://github.com/fkur0p1nion/fkur0p1nion.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
